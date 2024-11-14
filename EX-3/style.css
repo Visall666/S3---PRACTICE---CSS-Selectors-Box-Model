@@ -1,0 +1,11 @@
+button{
+    border: 3px solid rgb(188, 70, 168);
+    border-radius: 30px;
+    padding: 15px 30px;
+    background-color: rgb(234, 141, 213);
+    color: azure;
+    font-size: large;
+}
+button:hover{
+    background-color: rgb(158, 29, 167);
+}
